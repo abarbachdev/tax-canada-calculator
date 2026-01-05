@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>/tax-refund-estimator</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>/paycheque-calculator</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>/blog</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>/rrsp-savings</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>/cpp-ei-deductions</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <!-- Provincial Pages -->
+  <url><loc>/ontario-tax-calculator</loc><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>/quebec-tax-calculator</loc><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>/british-columbia-tax-calculator</loc><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>/alberta-tax-calculator</loc><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>/saskatchewan-tax-calculator</loc><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>/manitoba-tax-calculator</loc><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>/new-brunswick-tax-calculator</loc><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>/nova-scotia-tax-calculator</loc><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>/prince-edward-island-tax-calculator</loc><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  <url><loc>/newfoundland-and-labrador-tax-calculator</loc><changefreq>yearly</changefreq><priority>0.9</priority></url>
+  
+  <!-- Blog Posts -->
+  <url><loc>/blog/understanding-rrsp-contributions</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>/blog/guide-to-canadian-tax-brackets</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>/blog/cpp-vs-qpp-whats-the-difference</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>/blog/maximizing-your-tax-refund</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>/blog/common-tax-credits-you-might-be-missing</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+</urlset>
